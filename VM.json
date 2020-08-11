@@ -1,0 +1,15 @@
+{
+  "fqdns": "",
+  "id": "/subscriptions/e7574b6d-cfea-4e7f-9c11-e43836780610/resourceGroups/MiguelCh9-Stu2-rg/providers/Microsoft.Compute/virtualMachines/MiguelCh9-Stu2-vm",
+  "identity": {
+    "systemAssignedIdentity": "5eb1a9ea-69ea-461a-ad32-536afd048789",
+    "userAssignedIdentities": {}
+  },
+  "location": "eastus",
+  "macAddress": "00-22-48-24-A6-CC",
+  "powerState": "VM running",
+  "privateIpAddress": "10.0.0.4",
+  "publicIpAddress": "52.152.171.146",
+  "resourceGroup": "MiguelCh9-Stu2-rg",
+  "zones": ""
+}
